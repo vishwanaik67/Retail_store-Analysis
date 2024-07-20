@@ -63,6 +63,7 @@ This Power BI project analyzes XYZ Company's sales data to provide insights into
 This dashboard provides a comprehensive view of XYZ Company's sales data, highlighting key metrics, top-performing products, and revenue trends. By leveraging these insights, the company can make strategic decisions to drive growth and improve profitability.
 
 ---
+![Screenshot 2024-07-20 200912](https://github.com/user-attachments/assets/9c4f92f5-728b-4a65-a1d3-01851cb03aef)
 
 ### Contact Information
 Prepared by: Vishwa Naik  
